@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Abir Kundu</h1>
 <h3 align="center" >A passionate frontend developer from Bangladesh</h3>
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif">
 <img  align="right" alt="Coding" width ="300px" src="https://cdn.dribbble.com/users/525908/screenshots/3013825/coder.gif">
 
 
@@ -37,3 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abirkundu&show_icons=true&locale=en" alt="abirkundu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abirkundu&" alt="abirkundu" /></p>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif">
