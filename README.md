@@ -1,9 +1,9 @@
 ![MasterHead](https://cdn.dribbble.com/users/1245139/screenshots/4795849/barreirofreddy_tv_beachman.gif)
 <h1 align="center">Hi 👋, I'm Abir Kundu</h1>
 <h3 align="center" >A passionate frontend developer from Bangladesh</h3>
+
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif">
 <img  align="right" alt="Coding" width ="300px" src="https://cdn.dribbble.com/users/525908/screenshots/3013825/coder.gif">
-
-
 
 
 - 🔭 I’m currently working on [Data Entry Form Project](https://github.com/AbirKundu/Data-Entry-Form-Project)
