@@ -1,5 +1,4 @@
 
-![MasterHead](https://cdn.dribbble.com/users/1245139/screenshots/4795849/barreirofreddy_tv_beachman.gif)
 <h1 align="center">Hi 👋, I'm Abir Kundu</h1>
 <h3 align="center" >A passionate frontend developer from Bangladesh</h3>
 <img  align="right" alt="Coding" width ="300px" src="https://cdn.dribbble.com/users/525908/screenshots/3013825/coder.gif">
